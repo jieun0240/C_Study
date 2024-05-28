@@ -99,5 +99,17 @@
     <ClCompile Include="16-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
